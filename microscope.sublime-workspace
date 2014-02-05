@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"coo",
+				"cool_people_channel"
+			],
+			[
+				"s",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 333.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 696.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/asaupan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/asaupan/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/asaupan/apps/meteorjs/Microscope/microscope.sublime-project",
+		"/home/asaupan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/asaupan/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/asaupan/apps/meteorjs/vphr/vphr.sublime-project",
+		"/usr/local/lib/node_modules/bower/.jshintrc",
+		"/home/asaupan/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/asaupan/.config/sublime-text-3/Packages/TernJS/TernJS.sublime-settings",
+		"/home/asaupan/apps/meteorjs/Microscope/.meteor/local/build/programs/client/packages/bootstrap.js",
+		"/home/asaupan/apps/meteorjs/Microscope/.meteor/local/build/star.json",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/welcomeHeader.css",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/welcomeHeader.js",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/map.css",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/map.js",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/map.html",
+		"/home/asaupan/apps/bootstrap/ur/done/04_04.html",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/welcomeFooter.css",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/welcomeFooter.js",
+		"/home/asaupan/apps/meteorjs/vphrLogin/client/welcomeFooter.html",
+		"/home/asaupan/apps/meteorjs/vphr/client/vphr.css",
+		"/home/asaupan/apps/bootstrap/vphr/css/styles.css",
+		"/home/asaupan/apps/bootstrap/ur/03_04.html",
+		"/home/asaupan/apps/bootstrap/ur/03_03.html",
+		"/home/asaupan/apps/bootstrap/Ex_Files_UaR_Bootstp3/Exercise Files/Chapter 3/03_03/03_03.html",
+		"/home/asaupan/apps/bootstrap/ur/03_01.html",
+		"/home/asaupan/apps/bootstrap/ur/03_02.html",
+		"/home/asaupan/apps/hist-01202014.txt",
+		"/home/asaupan/apps/bootstrap/ur/03_10.html",
+		"/home/asaupan/apps/bootstrap/ur/03_09.html",
+		"/home/asaupan/apps/bootstrap/ur/03_08.html",
+		"/home/asaupan/apps/bootstrap/ur/03_07.html",
+		"/home/asaupan/apps/bootstrap/ur/03_06.html",
+		"/home/asaupan/apps/bootstrap/ur/03_05.html",
+		"/home/asaupan/apps/bootstrap/ur/02_08.html",
+		"/home/asaupan/apps/bootstrap/ur/02_02.html",
+		"/home/asaupan/apps/bootstrap/ur/02_03.html",
+		"/home/asaupan/apps/bootstrap/ur/02_04.html",
+		"/home/asaupan/apps/bootstrap/ur/02_06.html",
+		"/home/asaupan/apps/bootstrap/ur/02_07.html",
+		"/home/asaupan/apps/bootstrap/ur/02_05.html",
+		"/home/asaupan/apps/bootstrap/ur/template.html",
+		"/home/asaupan/apps/bootstrap/ur/js/respond.min.js",
+		"/home/asaupan/apps/bootstrap/ur/css/custom.css",
+		"/home/asaupan/apps/bootstrap/vphr/extras4.html",
+		"/home/asaupan/apps/bootstrap/vphr/extras3a.html",
+		"/home/asaupan/apps/bootstrap/vphr/extras3.html",
+		"/home/asaupan/apps/bootstrap/vphr/extras2.html",
+		"/home/asaupan/apps/bootstrap/vphr/extras1.html",
+		"/home/asaupan/apps/bootstrap/vphr/extras.html",
+		"/home/asaupan/apps/bootstrap/vphr/blank.html",
+		"/home/asaupan/apps/bootstrap/vphr/read.html",
+		"/home/asaupan/apps/bootstrap/css/styles.css",
+		"/home/asaupan/apps/bower_components/bootstrap/bower.json",
+		"/home/asaupan/apps/meteorjs/admin/admin.css",
+		"/home/asaupan/Coursera/Others/MeteorJS/JavaScript/spa-master/listings/ch01/spa-1.2.5.html",
+		"/home/asaupan/Coursera/Others/MeteorJS/JavaScript/spa-master/listings/ch01/spa-1.2.4.html",
+		"/home/asaupan/apps/javascript/calculator.html",
+		"/home/asaupan/Coursera/Others/MeteorJS/JavaScript/spa-master/listings/ch01/spa-1.2.2.html",
+		"/home/asaupan/Coursera/Others/MeteorJS/JavaScript/spa-master/listings/apx0A/good_dog.html",
+		"/home/asaupan/Coursera/Others/MeteorJS/JavaScript/spa-master/listings/apx0A/module_template.js",
+		"/home/asaupan/apps/javascript/calculator2.html",
+		"/home/asaupan/Documents/JavaScript Loan Calculator.html",
+		"/home/asaupan/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/asaupan/apps/meteorjs/accounts/server/config.js",
+		"/home/asaupan/apps/meteorjs/accounts/client/index.html",
+		"/home/asaupan/apps/meteorjs/accounts/client/index.js",
+		"/home/asaupan/apps/meteorjs/accounts/server/accounts.js",
+		"/home/asaupan/apps/meteorjs/accounts/.meteor/local/build/star.json",
+		"/home/asaupan/apps/meteorjs/tutorial/tutorial.html",
+		"/home/asaupan/apps/meteorjs/tutorial/tutorial.js",
+		"/home/asaupan/apps/egghead/index.html",
+		"/home/asaupan/apps/egghead/main.js",
+		"/home/asaupan/Coursera/PASSED/MongoDB-for-Developers-NodeJS/Week2/hw2/hw2-3/blog/users.js",
+		"/home/asaupan/Coursera/CURRENT/MongoDB-for-Developers-Java/Week2/HW/Q3/Q3",
+		"/home/asaupan/Coursera/CURRENT/MongoDB-for-Developers-Java/Week2/HW/Q2/Q2",
+		"/home/asaupan/Coursera/CURRENT/MongoDB-for-Developers-Java/Week2/HW/Q1/Q1"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li",
+			"div",
+			"formView",
+			"bower",
+			"Loan Balance",
+			"Balance",
+			"message"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data.message"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"hasHeader": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "microscope.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
